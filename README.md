@@ -1,2 +1,2 @@
-# Maestr-a
-Maestría en Ciencia de Datos
+# Maestria
+Maestria en Ciencia de Datos
